@@ -1,0 +1,4 @@
+[submodule "google-assistant-webserver"]
+	path = google-assistant-webserver
+	url = https://github.com/samlehman617/google-assistant-webserver.git
+	branch = master
