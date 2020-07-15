@@ -4,4 +4,5 @@
 	branch = master
 [submodule "youtube-dl"]
 	path = youtube-dl
-	url = https://github.com/samlehman617/hassio-addon-youtube-dl
+    url = https://github.com/samlehman617/hassio-addon-youtube-dl.git
+    branch = master
