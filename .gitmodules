@@ -2,3 +2,6 @@
 	path = google-assistant-webserver
 	url = https://github.com/samlehman617/google-assistant-webserver.git
 	branch = master
+[submodule "youtube-dl"]
+	path = youtube-dl
+	url = https://github.com/samlehman617/hassio-addon-youtube-dl
